@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-If your reading this, I am glad you're here! I'm a Full Stack Web Developer with knowledge in HTMTL, CSS, JavaScipt, Node, and Python. As a recent graduate from Lambda School, I look forward to being part of a structured development team and shipping beautiful applications. 
+If you're reading this, I am glad you're here! I'm a Full Stack Web Developer with knowledge in HTML, CSS, JavaScript, Node, and Python. As a recent graduate from Lambda School, I look forward to being part of a structured development team and shipping beautiful applications. 
 
 - 🎸 Passion for loud music that keeps my blood pumping
 - 🎮 Enjoying my time with some video games
